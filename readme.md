@@ -1,7 +1,7 @@
 ## Example PHP MVC Application
 
 
-## Description:
+### Description:
 
 Based on the [PHP Academy MVC Application Tutorial](https://www.youtube.com/playlist?list=PLfdtiltiRHWGXVHXX09fxXDi-DqInchFD), this is my first look at an MVC framework in PHP. This is a very basic example and does well to introduce the user to a Model-View-Controller architecture (Currently the rage with [AngularJS](https://angularjs.org/)).
 
